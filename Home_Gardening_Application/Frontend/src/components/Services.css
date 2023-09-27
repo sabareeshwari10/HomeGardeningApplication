@@ -1,0 +1,91 @@
+/* Services.css
+.services-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .services-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .service-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .service-item {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .service-item::before {
+    content: "\2022"; 
+    color: #333;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+   */
+
+   /* Services.css */
+
+/* .services-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.services-title {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.service-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.service-item {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+Additional styling for paragraphs or any other elements as needed */
+.services-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.services-title {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.service-list {
+  list-style-type: disc;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.service-item {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.services-container p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* You can add more CSS rules and styles as needed for your specific design. */

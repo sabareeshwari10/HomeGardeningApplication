@@ -1,0 +1,21 @@
+ul li{
+    display: inline;
+}
+ul li{
+    margin-right: 20px;
+}
+ul li{
+    text-decoration: none;
+}
+#navLink{
+    text-decoration: none;
+    color: white;
+}
+.wrapper {
+
+    padding: 20px;
+
+}
+#top{
+    width: 100%;
+}

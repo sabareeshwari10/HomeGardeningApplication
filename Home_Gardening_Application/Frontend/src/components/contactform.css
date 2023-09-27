@@ -1,0 +1,14 @@
+/* src/components/ContactForm.css */
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px; /* Add padding to create some space around the form */
+  }
+  
+  #buttonstyle {
+    color: fuchsia;
+    /* Add any other button styles you want here */
+  }
+  
